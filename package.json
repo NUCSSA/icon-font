@@ -1,0 +1,19 @@
+{
+  "name": "nucssa-icon-font",
+  "scripts": {
+    "upload": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NUCSSA/icon-font.git"
+  },
+  "author": "NUCSSA IT",
+  "bugs": {
+    "url": "https://github.com/NUCSSA/icon-font/issues"
+  },
+  "homepage": "https://github.com/NUCSSA/icon-font#readme",
+  "dependencies": {
+    "extract-zip": "^1.6.7",
+    "open": "^6.4.0"
+  }
+}
