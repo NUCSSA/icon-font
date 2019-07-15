@@ -10,10 +10,106 @@
         {
           "order": 1,
           "id": 0,
-          "prevSize": 32,
+          "prevSize": 28,
+          "code": 59655,
+          "name": "wechat",
+          "tempChar": ""
+        }
+      ],
+      "id": 6,
+      "metadata": {
+        "name": "Font Awesome (subset)",
+        "url": "https://github.com/FortAwesome/Font-Awesome",
+        "designer": "Dave Gandy",
+        "designerURL": "https://github.com/davegandy",
+        "license": "Custom",
+        "licenseURL": "https://github.com/FortAwesome/Font-Awesome#license",
+        "iconsHash": 309851062,
+        "importSize": {
+          "width": 32,
+          "height": 28
+        }
+      },
+      "height": 1024,
+      "prevSize": 32,
+      "icons": [
+        {
+          "id": 0,
+          "paths": [
+            "M331.429 263.429c0-31.429-20.571-52-52-52-30.857 0-62.286 20.571-62.286 52 0 30.857 31.429 51.429 62.286 51.429 31.429 0 52-20.571 52-51.429zM756 553.143c0-20.571-20.571-41.143-52-41.143-20.571 0-41.143 20.571-41.143 41.143 0 21.143 20.571 41.714 41.143 41.714 31.429 0 52-20.571 52-41.714zM621.143 263.429c0-31.429-20.571-52-51.429-52-31.429 0-62.286 20.571-62.286 52 0 30.857 30.857 51.429 62.286 51.429 30.857 0 51.429-20.571 51.429-51.429zM984 553.143c0-20.571-21.143-41.143-52-41.143-20.571 0-41.143 20.571-41.143 41.143 0 21.143 20.571 41.714 41.143 41.714 30.857 0 52-20.571 52-41.714zM832 326.286c-13.143-1.714-26.286-2.286-40-2.286-196.571 0-352 146.857-352 327.429 0 30.286 4.571 59.429 13.143 86.857-13.143 1.143-25.714 1.714-38.857 1.714-52 0-93.143-10.286-145.143-20.571l-144.571 72.571 41.143-124.571c-103.429-72.571-165.714-166.286-165.714-280 0-197.143 186.286-352 414.286-352 203.429 0 382.286 124 417.714 290.857zM1170.286 646.857c0 93.143-61.714 176-145.143 238.286l31.429 103.429-113.714-62.286c-41.714 10.286-83.429 21.143-124.571 21.143-197.143 0-352-134.857-352-300.571s154.857-300.571 352-300.571c186.286 0 352 134.857 352 300.571z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "width": 1170,
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "tags": [
+            "wechat",
+            "weixin"
+          ],
+          "grid": 32
+        }
+      ],
+      "invisible": false,
+      "colorThemes": []
+    },
+    {
+      "selection": [
+        {
+          "order": 1,
+          "id": 0,
+          "prevSize": 28,
+          "code": 59654,
+          "name": "send",
+          "tempChar": ""
+        }
+      ],
+      "id": 5,
+      "metadata": {
+        "name": "Zondicons (subset)",
+        "importSize": {
+          "width": 20,
+          "height": 20
+        },
+        "url": "http://www.zondicons.com/",
+        "designer": "Steve Schoger",
+        "designerURL": "http://www.steveschoger.com/",
+        "license": "CC BY 4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+        "iconsHash": 845300721
+      },
+      "height": 1024,
+      "prevSize": 32,
+      "icons": [
+        {
+          "id": 0,
+          "paths": [
+            "M0 0l1024 512-1024 512v-1024zM0 409.6v204.8l512-102.4-512-102.4z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "tags": [
+            "send"
+          ],
+          "grid": 32
+        }
+      ],
+      "invisible": false,
+      "colorThemes": []
+    },
+    {
+      "selection": [
+        {
+          "order": 1,
+          "id": 0,
+          "prevSize": 28,
           "code": 59650,
           "name": "aircraft",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 4,
@@ -61,18 +157,18 @@
         {
           "order": 1,
           "id": 1,
-          "prevSize": 32,
+          "prevSize": 28,
           "code": 59651,
           "name": "aircraft-2",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 2,
           "id": 0,
-          "prevSize": 32,
+          "prevSize": 28,
           "code": 59652,
           "name": "aircraft-take-off",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 3,
@@ -131,10 +227,10 @@
         {
           "order": 1,
           "id": 0,
-          "prevSize": 32,
+          "prevSize": 28,
           "code": 59653,
           "name": "aircraft-3",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 2,
@@ -185,9 +281,9 @@
           "order": 2,
           "id": 0,
           "name": "nucssa",
-          "prevSize": 32,
+          "prevSize": 28,
           "code": 59648,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 1,
@@ -250,10 +346,10 @@
         {
           "order": 4,
           "id": 0,
-          "prevSize": 32,
+          "prevSize": 28,
           "code": 59649,
           "name": "pacman",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 0,
@@ -324,8 +420,7 @@
     "historySize": 50,
     "gridSize": 16,
     "quickUsageToken": {
-      "UntitledProject": "NmQzN2QwYmY3MzA3MzY3N2FjNzY0YmI5MDM4YjhhNjEjMSMxNTYyOTk1ODA4IyMj"
+      "nucssa-icon-font": "ZjNiNDhjOTYyMjlhZTQyN2RjMGI4OWI3ZDI5ZDEyNGUjMSMxNTYzMTc1MDMxIyMj"
     }
-  },
-  "time": 1562997000860
+  }
 }

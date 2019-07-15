@@ -25,7 +25,7 @@ extract('./nucssa-icon-font.zip', { dir: unzipTarget }, err => {
     /**
      * Upload to Production Server
      */
-    exec(`scp -r dist ${user}@${path}`, (err, stdout, stderr) => {
+    exec(`scp -r dist/* ${user}@${path}`, (err, stdout, stderr) => {
       if (err) {
         // node couldn't execute the command
         console.log('>>> Error: Oops Failed to copy files to production server.');
