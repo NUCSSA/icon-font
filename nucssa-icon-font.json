@@ -2,9 +2,56 @@
   "metadata": {
     "name": "nucssa-icon-font",
     "lastOpened": 0,
-    "created": 1563697139822
+    "created": 1564729200764
   },
   "iconSets": [
+    {
+      "selection": [
+        {
+          "order": 1,
+          "id": 0,
+          "prevSize": 32,
+          "code": 59660,
+          "name": "search",
+          "tempChar": ""
+        }
+      ],
+      "id": 10,
+      "metadata": {
+        "name": "Hawcons (subset)",
+        "url": "http://hawcons.com/",
+        "designerURL": "http://www.yanlu.de/",
+        "designer": "Yannick",
+        "licenseURL": "http://hawcons.com/faq/",
+        "license": "Custom",
+        "iconsHash": 2034246827,
+        "importSize": {
+          "width": 32,
+          "height": 32
+        }
+      },
+      "height": 1024,
+      "prevSize": 32,
+      "icons": [
+        {
+          "id": 0,
+          "paths": [
+            "M621.668 653.668c-44.476 31.692-98.895 50.332-157.668 50.332-150.221 0-272-121.779-272-272s121.779-272 272-272c150.221 0 272 121.779 272 272 0 58.773-18.641 113.192-50.332 157.668l178.714 178.714c17.606 17.606 17.46 45.778-0.006 63.244l-0.75 0.75c-17.421 17.421-45.781 17.469-63.244 0.006l-178.714-178.714zM464 640c114.875 0 208-93.125 208-208s-93.125-208-208-208c-114.875 0-208 93.125-208 208s93.125 208 208 208v0z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "tags": [
+            "search"
+          ],
+          "grid": 32
+        }
+      ],
+      "invisible": false,
+      "colorThemes": []
+    },
     {
       "selection": [
         {
@@ -13,7 +60,7 @@
           "name": "suitcase-with-wheels",
           "prevSize": 32,
           "code": 59659,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 9,
@@ -108,7 +155,7 @@
           "prevSize": 32,
           "code": 59656,
           "name": "paper-plane-outline",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 7,
@@ -158,7 +205,7 @@
           "prevSize": 32,
           "code": 59657,
           "name": "paper-plane-o",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 2,
@@ -166,7 +213,7 @@
           "prevSize": 32,
           "code": 59658,
           "name": "paper-plane",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -174,7 +221,7 @@
           "prevSize": 32,
           "code": 59655,
           "name": "wechat",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 6,
@@ -257,7 +304,7 @@
           "prevSize": 32,
           "code": 59654,
           "name": "send",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 5,
@@ -304,7 +351,7 @@
           "prevSize": 32,
           "code": 59650,
           "name": "aircraft",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 4,
@@ -355,7 +402,7 @@
           "prevSize": 32,
           "code": 59651,
           "name": "aircraft-2",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 2,
@@ -363,7 +410,7 @@
           "prevSize": 32,
           "code": 59652,
           "name": "aircraft-take-off",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 3,
@@ -425,7 +472,7 @@
           "prevSize": 32,
           "code": 59653,
           "name": "aircraft-3",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 2,
@@ -478,7 +525,7 @@
           "name": "nucssa",
           "prevSize": 32,
           "code": 59648,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 1,
@@ -544,7 +591,7 @@
           "prevSize": 32,
           "code": 59649,
           "name": "pacman",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 0,
