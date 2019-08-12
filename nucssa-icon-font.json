@@ -2,7 +2,7 @@
   "metadata": {
     "name": "nucssa-icon-font",
     "lastOpened": 0,
-    "created": 1564729200764
+    "created": 1565644581150
   },
   "iconSets": [
     {
@@ -647,11 +647,27 @@
       "selection": [
         {
           "order": 1,
+          "id": 6,
+          "prevSize": 32,
+          "code": 59672,
+          "name": "play",
+          "tempChar": ""
+        },
+        {
+          "order": 2,
+          "id": 5,
+          "prevSize": 32,
+          "code": 59673,
+          "name": "play-with-circle",
+          "tempChar": ""
+        },
+        {
+          "order": 1,
           "id": 4,
           "name": "home, house",
           "prevSize": 32,
           "code": 59669,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -659,7 +675,7 @@
           "prevSize": 32,
           "code": 59663,
           "name": "instagram",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -667,7 +683,7 @@
           "name": "facebook",
           "prevSize": 32,
           "code": 59661,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -675,7 +691,7 @@
           "name": "sina-weibo",
           "prevSize": 32,
           "code": 59662,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -683,7 +699,7 @@
           "prevSize": 32,
           "code": 59653,
           "name": "aircraft-3",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 2,
@@ -703,6 +719,38 @@
       "height": 1024,
       "prevSize": 32,
       "icons": [
+        {
+          "id": 6,
+          "paths": [
+            "M192 128l640 384-640 384z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "tags": [
+            "play",
+            "player"
+          ],
+          "grid": 32
+        },
+        {
+          "id": 5,
+          "paths": [
+            "M512 0c-282.77 0-512 229.23-512 512s229.23 512 512 512 512-229.23 512-512-229.23-512-512-512zM512 928c-229.75 0-416-186.25-416-416s186.25-416 416-416 416 186.25 416 416-186.25 416-416 416zM384 288l384 224-384 224z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "tags": [
+            "play",
+            "player"
+          ],
+          "grid": 32
+        },
         {
           "id": 4,
           "paths": [
@@ -813,7 +861,7 @@
           "name": "nucssa",
           "prevSize": 32,
           "code": 59648,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 1,
@@ -879,7 +927,7 @@
           "prevSize": 32,
           "code": 59649,
           "name": "pacman",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 0,
