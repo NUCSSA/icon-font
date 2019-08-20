@@ -8,12 +8,128 @@
     {
       "selection": [
         {
+          "order": 1,
+          "id": 3,
+          "prevSize": 32,
+          "code": 59675,
+          "name": "chevrons-right",
+          "tempChar": ""
+        },
+        {
+          "order": 2,
+          "id": 2,
+          "prevSize": 32,
+          "code": 59676,
+          "name": "chevrons-left",
+          "tempChar": ""
+        },
+        {
+          "order": 3,
+          "id": 1,
+          "prevSize": 32,
+          "code": 59677,
+          "name": "chevron-left",
+          "tempChar": ""
+        },
+        {
+          "order": 4,
+          "id": 0,
+          "prevSize": 32,
+          "code": 59678,
+          "name": "chevron-right",
+          "tempChar": ""
+        }
+      ],
+      "id": 12,
+      "metadata": {
+        "name": "Feather (subset)",
+        "importSize": {
+          "width": 24,
+          "height": 24
+        },
+        "url": "https://feathericons.com/",
+        "designer": "Cole Bemis",
+        "designerURL": "http://colebemis.com/",
+        "license": "MIT",
+        "licenseURL": "https://github.com/feathericons/feather/blob/master/LICENSE",
+        "iconsHash": 1246976322
+      },
+      "height": 1024,
+      "prevSize": 32,
+      "icons": [
+        {
+          "id": 3,
+          "paths": [
+            "M584.832 755.499l213.333-213.333c16.683-16.683 16.683-43.691 0-60.331l-213.333-213.333c-16.683-16.683-43.691-16.683-60.331 0s-16.683 43.691 0 60.331l183.168 183.168-183.168 183.168c-16.683 16.683-16.683 43.691 0 60.331s43.691 16.683 60.331 0zM286.165 755.499l213.333-213.333c16.683-16.683 16.683-43.691 0-60.331l-213.333-213.333c-16.683-16.683-43.691-16.683-60.331 0s-16.683 43.691 0 60.331l183.168 183.168-183.168 183.168c-16.683 16.683-16.683 43.691 0 60.331s43.691 16.683 60.331 0z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "tags": [
+            "chevrons-right"
+          ],
+          "grid": 32
+        },
+        {
+          "id": 2,
+          "paths": [
+            "M499.499 695.168l-183.168-183.168 183.168-183.168c16.683-16.683 16.683-43.691 0-60.331s-43.691-16.683-60.331 0l-213.333 213.333c-16.683 16.683-16.683 43.691 0 60.331l213.333 213.333c16.683 16.683 43.691 16.683 60.331 0s16.683-43.691 0-60.331zM798.165 695.168l-183.168-183.168 183.168-183.168c16.683-16.683 16.683-43.691 0-60.331s-43.691-16.683-60.331 0l-213.333 213.333c-16.683 16.683-16.683 43.691 0 60.331l213.333 213.333c16.683 16.683 43.691 16.683 60.331 0s16.683-43.691 0-60.331z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "tags": [
+            "chevrons-left"
+          ],
+          "grid": 32
+        },
+        {
+          "id": 1,
+          "paths": [
+            "M670.165 737.835l-225.835-225.835 225.835-225.835c16.683-16.683 16.683-43.691 0-60.331s-43.691-16.683-60.331 0l-256 256c-16.683 16.683-16.683 43.691 0 60.331l256 256c16.683 16.683 43.691 16.683 60.331 0s16.683-43.691 0-60.331z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "tags": [
+            "chevron-left"
+          ],
+          "grid": 32
+        },
+        {
+          "id": 0,
+          "paths": [
+            "M414.165 798.165l256-256c16.683-16.683 16.683-43.691 0-60.331l-256-256c-16.683-16.683-43.691-16.683-60.331 0s-16.683 43.691 0 60.331l225.835 225.835-225.835 225.835c-16.683 16.683-16.683 43.691 0 60.331s43.691 16.683 60.331 0z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "tags": [
+            "chevron-right"
+          ],
+          "grid": 32
+        }
+      ],
+      "invisible": false,
+      "colorThemes": []
+    },
+    {
+      "selection": [
+        {
           "order": 12,
           "id": 2,
           "name": "columns",
           "prevSize": 32,
           "code": 59664,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 10,
@@ -21,7 +137,7 @@
           "name": "people",
           "prevSize": 32,
           "code": 59665,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 11,
@@ -29,7 +145,7 @@
           "name": "touch",
           "prevSize": 32,
           "code": 59666,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 11,
@@ -100,7 +216,7 @@
           "prevSize": 32,
           "code": 59670,
           "name": "basketball-hoop",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 2,
@@ -108,7 +224,7 @@
           "prevSize": 32,
           "code": 59671,
           "name": "basketball-hoop1",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -116,7 +232,7 @@
           "name": "basketball",
           "prevSize": 32,
           "code": 59667,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -124,7 +240,7 @@
           "prevSize": 32,
           "code": 59660,
           "name": "search",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 10,
@@ -216,7 +332,7 @@
           "name": "suitcase-with-wheels",
           "prevSize": 32,
           "code": 59659,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 9,
@@ -311,7 +427,7 @@
           "prevSize": 32,
           "code": 59656,
           "name": "paper-plane-outline",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 7,
@@ -361,7 +477,7 @@
           "prevSize": 32,
           "code": 59657,
           "name": "paper-plane-o",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 2,
@@ -369,7 +485,7 @@
           "prevSize": 32,
           "code": 59658,
           "name": "paper-plane",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -377,7 +493,7 @@
           "prevSize": 32,
           "code": 59655,
           "name": "wechat",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 6,
@@ -460,7 +576,7 @@
           "name": "view-carousel",
           "prevSize": 32,
           "code": 59668,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -468,7 +584,7 @@
           "prevSize": 32,
           "code": 59654,
           "name": "send",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 5,
@@ -530,7 +646,7 @@
           "prevSize": 32,
           "code": 59650,
           "name": "aircraft",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 4,
@@ -581,7 +697,7 @@
           "prevSize": 32,
           "code": 59674,
           "name": "arrow-right-thin",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -589,7 +705,7 @@
           "prevSize": 32,
           "code": 59651,
           "name": "aircraft-2",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 2,
@@ -597,7 +713,7 @@
           "prevSize": 32,
           "code": 59652,
           "name": "aircraft-take-off",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 3,
@@ -674,7 +790,7 @@
           "prevSize": 32,
           "code": 59672,
           "name": "play",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 2,
@@ -682,7 +798,7 @@
           "prevSize": 32,
           "code": 59673,
           "name": "play-with-circle",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -690,7 +806,7 @@
           "name": "home",
           "prevSize": 32,
           "code": 59669,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -698,7 +814,7 @@
           "prevSize": 32,
           "code": 59663,
           "name": "instagram",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -706,7 +822,7 @@
           "name": "facebook",
           "prevSize": 32,
           "code": 59661,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -714,7 +830,7 @@
           "name": "sina-weibo",
           "prevSize": 32,
           "code": 59662,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -722,7 +838,7 @@
           "prevSize": 32,
           "code": 59653,
           "name": "aircraft-3",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 2,
@@ -884,7 +1000,7 @@
           "name": "nucssa",
           "prevSize": 32,
           "code": 59648,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 1,
@@ -950,7 +1066,7 @@
           "prevSize": 32,
           "code": 59649,
           "name": "pacman",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 0,
@@ -1015,7 +1131,9 @@
       "png": true,
       "useClassSelector": true,
       "color": 0,
-      "bgColor": 16777215
+      "bgColor": 16777215,
+      "name": "icomoon",
+      "classSelector": ".icon"
     },
     "historySize": 50,
     "gridSize": 16,
