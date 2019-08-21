@@ -212,11 +212,19 @@
       "selection": [
         {
           "order": 1,
+          "id": 4,
+          "prevSize": 32,
+          "code": 59679,
+          "name": "lock-open",
+          "tempChar": ""
+        },
+        {
+          "order": 1,
           "id": 3,
           "prevSize": 32,
           "code": 59670,
           "name": "basketball-hoop",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 2,
@@ -224,7 +232,7 @@
           "prevSize": 32,
           "code": 59671,
           "name": "basketball-hoop1",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -232,7 +240,7 @@
           "name": "basketball",
           "prevSize": 32,
           "code": 59667,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -240,7 +248,7 @@
           "prevSize": 32,
           "code": 59660,
           "name": "search",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 10,
@@ -260,6 +268,21 @@
       "height": 1024,
       "prevSize": 32,
       "icons": [
+        {
+          "id": 4,
+          "paths": [
+            "M512 765.269v0 0c-18.643-6.589-32-24.369-32-45.269 0-26.51 21.49-48 48-48s48 21.49 48 48c0 20.9-13.357 38.679-32 45.269v83.019c0 8.42-7.163 15.712-16 15.712-8.578 0-16-7.035-16-15.712v-83.019zM768 304v-32.024c0-132.535-107.721-239.976-240-239.976-132.548 0-240 107.415-240 239.976v240.025c-53.045 0.15-96 42.866-96 96.303v319.393c0 53.187 43.059 96.303 96.281 96.303h479.438c53.175 0 96.281-42.772 96.281-96.303v-319.393c0-53.093-42.907-96.151-96-96.303h-383.121c-0.581-5.248-0.879-10.581-0.879-15.983v-224.034c0-79.656 64.471-143.983 144-143.983 79.367 0 144 64.463 144 143.983v115.984c0 33.155 21.306 60.033 48 60.033 26.51 0 48-27.142 48-60.033v-83.967z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "tags": [
+            "lock-open"
+          ],
+          "grid": 32
+        },
         {
           "id": 3,
           "paths": [
@@ -332,7 +355,7 @@
           "name": "suitcase-with-wheels",
           "prevSize": 32,
           "code": 59659,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 9,
@@ -427,7 +450,7 @@
           "prevSize": 32,
           "code": 59656,
           "name": "paper-plane-outline",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 7,
@@ -477,7 +500,7 @@
           "prevSize": 32,
           "code": 59657,
           "name": "paper-plane-o",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 2,
@@ -485,7 +508,7 @@
           "prevSize": 32,
           "code": 59658,
           "name": "paper-plane",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -493,7 +516,7 @@
           "prevSize": 32,
           "code": 59655,
           "name": "wechat",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 6,
@@ -576,7 +599,7 @@
           "name": "view-carousel",
           "prevSize": 32,
           "code": 59668,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -584,7 +607,7 @@
           "prevSize": 32,
           "code": 59654,
           "name": "send",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 5,
@@ -646,7 +669,7 @@
           "prevSize": 32,
           "code": 59650,
           "name": "aircraft",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 4,
@@ -697,7 +720,7 @@
           "prevSize": 32,
           "code": 59674,
           "name": "arrow-right-thin",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -705,7 +728,7 @@
           "prevSize": 32,
           "code": 59651,
           "name": "aircraft-2",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 2,
@@ -713,7 +736,7 @@
           "prevSize": 32,
           "code": 59652,
           "name": "aircraft-take-off",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 3,
@@ -790,7 +813,7 @@
           "prevSize": 32,
           "code": 59672,
           "name": "play",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 2,
@@ -798,7 +821,7 @@
           "prevSize": 32,
           "code": 59673,
           "name": "play-with-circle",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -806,7 +829,7 @@
           "name": "home",
           "prevSize": 32,
           "code": 59669,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -814,7 +837,7 @@
           "prevSize": 32,
           "code": 59663,
           "name": "instagram",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -822,7 +845,7 @@
           "name": "facebook",
           "prevSize": 32,
           "code": 59661,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -830,7 +853,7 @@
           "name": "sina-weibo",
           "prevSize": 32,
           "code": 59662,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -838,7 +861,7 @@
           "prevSize": 32,
           "code": 59653,
           "name": "aircraft-3",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 2,
@@ -1000,7 +1023,7 @@
           "name": "nucssa",
           "prevSize": 32,
           "code": 59648,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 1,
@@ -1066,7 +1089,7 @@
           "prevSize": 32,
           "code": 59649,
           "name": "pacman",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 0,
