@@ -8,12 +8,55 @@
     {
       "selection": [
         {
+          "order": 13,
+          "id": 0,
+          "name": "tickets-alt",
+          "prevSize": 32,
+          "code": 59680,
+          "tempChar": ""
+        }
+      ],
+      "id": 13,
+      "metadata": {
+        "name": "Untitled Set 3",
+        "importSize": {
+          "width": 1,
+          "height": 1
+        }
+      },
+      "height": 1024,
+      "prevSize": 32,
+      "icons": [
+        {
+          "id": 0,
+          "paths": [
+            "M1024 326.656l-51.712 144.384v-0.512c-26.624-9.728-52.736-8.192-78.336 4.096s-43.52 31.744-53.248 58.368-8.192 52.736 3.584 78.336c12.288 25.6 31.744 43.008 58.88 52.736v0.512l-51.712 144.384-771.072-275.456 50.688-142.848c26.624 9.728 52.736 8.192 78.336-4.096 25.6-11.776 43.008-31.232 52.736-57.856s8.192-52.736-4.096-78.336c-11.472-24.528-31.995-43.218-57.163-52.013l-0.693-0.211 52.224-146.944zM769.536 617.984l70.144-192.512c6.144-15.872 5.12-33.28-2.048-48.64s-19.968-27.136-35.84-33.28l-385.024-139.776c-32.768-11.776-70.144 6.144-81.92 37.888l-70.144 192.512c-12.288 33.28 5.12 70.144 37.888 81.92l385.024 140.288c7.168 2.56 14.336 4.096 22.016 4.096 26.624 0 51.2-16.896 59.904-42.496zM408.064 227.84l384.512 139.776c9.728 3.584 17.408 10.752 22.016 19.968 4.096 9.216 4.608 19.456 1.024 29.184l-70.144 192.512c-6.656 19.456-29.696 30.208-49.152 23.040l-384.512-140.288c-14.897-5.508-25.324-19.589-25.324-36.105 0-4.68 0.837-9.165 2.37-13.313l-0.086 0.266 70.144-192.512c5.12-14.848 19.968-25.088 35.84-25.088 4.608 0 8.704 1.024 13.312 2.56zM757.248 849.408c17.92 13.824 38.4 20.992 61.44 20.992h0.512v153.6h-819.2v-151.552c28.16 0 52.736-10.24 72.192-30.208 19.968-19.456 30.208-44.032 30.208-72.192s-10.24-52.224-30.208-72.192-44.032-30.208-72.192-30.208v-155.648h53.76l-14.336 40.96 146.944 52.224c-26.112 8.192-45.568 31.744-45.568 60.416v204.8c0 35.328 28.672 64 64 64h409.6c35.328 0 64-28.672 64-64v-89.6l42.496 15.36c6.144 22.016 18.432 39.936 36.352 53.248zM166.4 870.4v-204.8c0-20.992 17.408-38.4 38.4-38.4h42.496l405.504 144.896v98.304c0 20.992-17.408 38.4-38.4 38.4h-409.6c-20.992 0-38.4-17.408-38.4-38.4z"
+          ],
+          "attrs": [
+            {
+              "fill": "rgb(98, 98, 98)"
+            }
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "grid": 32,
+          "tags": [
+            "tickets-alt"
+          ]
+        }
+      ],
+      "invisible": false,
+      "colorThemes": []
+    },
+    {
+      "selection": [
+        {
           "order": 1,
           "id": 3,
           "prevSize": 32,
           "code": 59675,
           "name": "chevrons-right",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 2,
@@ -21,7 +64,7 @@
           "prevSize": 32,
           "code": 59676,
           "name": "chevrons-left",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 3,
@@ -29,7 +72,7 @@
           "prevSize": 32,
           "code": 59677,
           "name": "chevron-left",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 4,
@@ -37,7 +80,7 @@
           "prevSize": 32,
           "code": 59678,
           "name": "chevron-right",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 12,
@@ -129,7 +172,7 @@
           "name": "columns",
           "prevSize": 32,
           "code": 59664,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 10,
@@ -137,7 +180,7 @@
           "name": "people",
           "prevSize": 32,
           "code": 59665,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 11,
@@ -145,7 +188,7 @@
           "name": "touch",
           "prevSize": 32,
           "code": 59666,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 11,
@@ -216,7 +259,7 @@
           "prevSize": 32,
           "code": 59679,
           "name": "lock-open",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -224,7 +267,7 @@
           "prevSize": 32,
           "code": 59670,
           "name": "basketball-hoop",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 2,
@@ -232,7 +275,7 @@
           "prevSize": 32,
           "code": 59671,
           "name": "basketball-hoop1",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -240,7 +283,7 @@
           "name": "basketball",
           "prevSize": 32,
           "code": 59667,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -248,7 +291,7 @@
           "prevSize": 32,
           "code": 59660,
           "name": "search",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 10,
@@ -355,7 +398,7 @@
           "name": "suitcase-with-wheels",
           "prevSize": 32,
           "code": 59659,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 9,
@@ -450,7 +493,7 @@
           "prevSize": 32,
           "code": 59656,
           "name": "paper-plane-outline",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 7,
@@ -500,7 +543,7 @@
           "prevSize": 32,
           "code": 59657,
           "name": "paper-plane-o",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 2,
@@ -508,7 +551,7 @@
           "prevSize": 32,
           "code": 59658,
           "name": "paper-plane",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -516,7 +559,7 @@
           "prevSize": 32,
           "code": 59655,
           "name": "wechat",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 6,
@@ -599,7 +642,7 @@
           "name": "view-carousel",
           "prevSize": 32,
           "code": 59668,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -607,7 +650,7 @@
           "prevSize": 32,
           "code": 59654,
           "name": "send",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 5,
@@ -669,7 +712,7 @@
           "prevSize": 32,
           "code": 59650,
           "name": "aircraft",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 4,
@@ -720,7 +763,7 @@
           "prevSize": 32,
           "code": 59674,
           "name": "arrow-right-thin",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -728,7 +771,7 @@
           "prevSize": 32,
           "code": 59651,
           "name": "aircraft-2",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 2,
@@ -736,7 +779,7 @@
           "prevSize": 32,
           "code": 59652,
           "name": "aircraft-take-off",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 3,
@@ -813,7 +856,7 @@
           "prevSize": 32,
           "code": 59672,
           "name": "play",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 2,
@@ -821,7 +864,7 @@
           "prevSize": 32,
           "code": 59673,
           "name": "play-with-circle",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -829,7 +872,7 @@
           "name": "home",
           "prevSize": 32,
           "code": 59669,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -837,7 +880,7 @@
           "prevSize": 32,
           "code": 59663,
           "name": "instagram",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -845,7 +888,7 @@
           "name": "facebook",
           "prevSize": 32,
           "code": 59661,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -853,7 +896,7 @@
           "name": "sina-weibo",
           "prevSize": 32,
           "code": 59662,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1,
@@ -861,7 +904,7 @@
           "prevSize": 32,
           "code": 59653,
           "name": "aircraft-3",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 2,
@@ -1023,7 +1066,7 @@
           "name": "nucssa",
           "prevSize": 32,
           "code": 59648,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 1,
@@ -1089,7 +1132,7 @@
           "prevSize": 32,
           "code": 59649,
           "name": "pacman",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 0,
