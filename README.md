@@ -44,9 +44,10 @@ And then click `Download` to the project entry.
 
 This will download a `nucssa-icon-font.json` file, move that file to our repo folder, and replace the old file.
 
+---
 
-
-### Upload Font Assets to Production Server
+### Upload Font Assets to Production Server (Ignore this step)
+> ## Since we've switched to GitHub Actions for deployment, The following manually deployment step is not needed any more.
 **Note**: This operation requires you have access to the productions server via ssh keys. Make sure to add your public key to the server before preceed.
 ```bash
 npm run upload
