@@ -13,7 +13,8 @@ jobs:
     steps:
     - uses: actions/checkout@v1
 
-    - uses: montudor/action-zip@v0.1.0
+    - name: Unzip nucssa-icon-font.zip
+      uses: montudor/action-zip@v0.1.0
       with:
           args: unzip -qq nucssa-icon-font.zip -d ./dist
 
